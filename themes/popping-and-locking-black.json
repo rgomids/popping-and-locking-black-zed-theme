@@ -7,7 +7,7 @@
       "name": "Popping and Locking Black",
       "appearance": "dark",
       "style": {
-        "border": "#928374",
+        "border": "#262626FF",
         "border.variant": "#92837480",
         "border.focused": "#458588",
         "border.selected": "#458588",
