@@ -1,7 +1,7 @@
-id = "popping-and-locking"
-name = "Popping and Locking Theme"
-version = "1.0.3"
+id = "popping-and-locking-black"
+name = "Popping and Locking Black"
+version = "0.0.1"
 schema_version = 1
-authors = ["randoneering <justin@randoneering.tech>"]
-description = "An attempted port of the Popping and Locking Theme from iTerm,atom, and vscode"
-repository = "https://github.com/randoneering/popping-and-locking-zed-theme"
+authors = ["rgomids"]
+description = "Popping and Locking Black Theme"
+repository = "https://github.com/rgomids/popping-and-locking-black-zed-theme"
